@@ -1,0 +1,124 @@
+{
+  "nike_shoes": [
+    {
+      "product_id": 1,
+      "product_rating": 4.5,
+      "product_name": "Nike Air Force 1",
+      "product_description": "Timeless classic with a leather upper and Air cushioning.",
+      "product_category": "Sneakers",
+      "genders": ["Men", "Women"],
+      "product_image": "nike_air_force_1.jpg",
+      "mini_image": ["mini_1.jpg", "mini_2.jpg", "mini_3.jpg"],
+      "product_price": 99.99,
+      "product_size": ["US 7", "US 8", "US 9", "US 10"]
+    },
+    {
+      "product_id": 2,
+      "product_rating": 4.2,
+      "product_name": "Nike Air Max 90",
+      "product_description": "Iconic design with visible Air cushioning in the heel.",
+      "product_category": "Sneakers",
+      "genders": ["Men", "Women"],
+      "product_image": "nike_air_max_90.jpg",
+      "mini_image": ["mini_1.jpg", "mini_2.jpg", "mini_3.jpg"],
+      "product_price": 119.99,
+      "product_size": ["US 7", "US 8", "US 9", "US 10"]
+    },
+    {
+      "product_id": 3,
+      "product_rating": 4.8,
+      "product_name": "Nike Air Jordan 1",
+      "product_description": "Legendary basketball shoe with a high-top silhouette.",
+      "product_category": "Sneakers",
+      "genders": ["Men", "Women"],
+      "product_image": "nike_air_jordan_1.jpg",
+      "mini_image": ["mini_1.jpg", "mini_2.jpg", "mini_3.jpg"],
+      "product_price": 149.99,
+      "product_size": ["US 7", "US 8", "US 9", "US 10"]
+    },
+    {
+      "product_id": 4,
+      "product_rating": 4.6,
+      "product_name": "Nike React Element",
+      "product_description": "Modern lifestyle shoe with React foam cushioning.",
+      "product_category": "Sneakers",
+      "genders": ["Men", "Women"],
+      "product_image": "nike_react_element.jpg",
+      "mini_image": ["mini_1.jpg", "mini_2.jpg", "mini_3.jpg"],
+      "product_price": 129.99,
+      "product_size": ["US 7", "US 8", "US 9", "US 10"]
+    },
+    {
+      "product_id": 5,
+      "product_rating": 4.3,
+      "product_name": "Nike Blazer Mid",
+      "product_description": "Classic hoops-inspired shoe with a mid-top design.",
+      "product_category": "Sneakers",
+      "genders": ["Men", "Women"],
+      "product_image": "nike_blazer_mid.jpg",
+      "mini_image": ["mini_1.jpg", "mini_2.jpg", "mini_3.jpg"],
+      "product_price": 89.99,
+      "product_size": ["US 7", "US 8", "US 9", "US 10"]
+    },
+    {
+      "product_id": 6,
+      "product_rating": 4.7,
+      "product_name": "Nike Dunk Low",
+      "product_description": "Classic skateboarding shoe with low-top silhouette.",
+      "product_category": "Sneakers",
+      "genders": ["Men", "Women"],
+      "product_image": "nike_dunk_low.jpg",
+      "mini_image": ["mini_1.jpg", "mini_2.jpg", "mini_3.jpg"],
+      "product_price": 109.99,
+      "product_size": ["US 7", "US 8", "US 9", "US 10"]
+    },
+    {
+      "product_id": 7,
+      "product_rating": 4.4,
+      "product_name": "Nike Air Presto",
+      "product_description": "Comfortable, lightweight shoe with a sock-like fit.",
+      "product_category": "Sneakers",
+      "genders": ["Men", "Women"],
+      "product_image": "nike_air_presto.jpg",
+      "mini_image": ["mini_1.jpg", "mini_2.jpg", "mini_3.jpg"],
+      "product_price": 119.99,
+      "product_size": ["US 7", "US 8", "US 9", "US 10"]
+    },
+    {
+      "product_id": 8,
+      "product_rating": 4.9,
+      "product_name": "Nike Air Vapormax",
+      "product_description": "Revolutionary running shoe with full-length Air cushioning.",
+      "product_category": "Running",
+      "genders": ["Men", "Women"],
+      "product_image": "nike_air_vapormax.jpg",
+      "mini_image": ["mini_1.jpg", "mini_2.jpg", "mini_3.jpg"],
+      "product_price": 169.99,
+      "product_size": ["US 7", "US 8", "US 9", "US 10"]
+    },
+    {
+      "product_id": 9,
+      "product_rating": 4.1,
+      "product_name": "Nike Zoom Fly",
+      "product_description": "Fast and responsive running shoe for long-distance runs.",
+      "product_category": "Running",
+      "genders": ["Men", "Women"],
+      "product_image": "nike_zoom_fly.jpg",
+      "mini_image": ["mini_1.jpg", "mini_2.jpg", "mini_3.jpg"],
+      "product_price": 129.99,
+      "product_size": ["US 7", "US 8", "US 9", "US 10"]
+    },
+    {
+      "product_id": 10,
+      "product_rating": 4.0,
+      "product_name": "Nike Free Run",
+      "product_description": "Flexible and lightweight running shoe with a barefoot feel.",
+      "product_category": "Running",
+      "genders": ["Men", "Women"],
+      "product_image": "nike_free_run.jpg",
+      "mini_image": ["mini_1.jpg", "mini_2.jpg", "mini_3.jpg"],
+      "product_price": 99.99,
+      "product_size": ["US 7", "US 8", "US 9", "US 10"]
+    }
+  ]
+}
